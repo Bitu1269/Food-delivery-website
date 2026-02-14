@@ -14,7 +14,6 @@ This project is a dynamic and user-friendly food delivery website developed usin
 <img width="1652" height="714" alt="image" src="https://github.com/user-attachments/assets/3b7051ef-5956-4c3f-9402-58d938d58ac1" />
 <img width="1642" height="708" alt="image" src="https://github.com/user-attachments/assets/89d770f5-56ba-4c7c-8ea3-6b5c89e045a1" />
 
-
 ## Features
 
 - **Intuitive Interface**: Navigate seamlessly through the website with a user-friendly interface.
